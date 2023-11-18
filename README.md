@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @BrianOrtiz08
 - 👀 Estoy interesado en el mundo del Desarrollo Web
-- 🌱 Soy Desarrollador Web, con conocimientos en HTML, CSS, SASS, GIT, GITHUB y BOOTSTRAP
-- 💞️ Actualmente esto volcado de lleno a un Curso de Java Script
+- 🌱 Soy Desarrollador Web, con conocimientos en HTML, CSS y JS. Además, tengo conocimientos en SASS, GIT, GITHUB y BOOTSTRAP
+- 💞️ Actualmente estoy practicando con mis conocimientos y a la brevedad comenzaré a estudiar React JS
 - 📫 Pueden contactarme a través de mi Correo Electrónico: ortizb355@gmail.com, o a través de mi LinkedIn: https://www.linkedin.com/in/brian08/
 - Les deseo un excelente día. Saludos!
